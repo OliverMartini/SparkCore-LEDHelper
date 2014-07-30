@@ -1,0 +1,8 @@
+{
+    "name": "om-ledhelper",
+    "version": "0.0.1",
+    "author": "OliverMartini",
+    "license": "MIT",
+    "description": "A LED helper libary for Spark Core",
+	"namespace": "OM::LEDHelper"
+}
